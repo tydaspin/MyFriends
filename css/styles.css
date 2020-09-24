@@ -1,0 +1,193 @@
+body{
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  font-weight: 600;
+}
+
+h1{
+  margin: 30px auto 30px auto;
+  font-size: 5.625rem;
+
+}
+
+h2{
+  font-size: 3rem;
+}
+
+h3{
+  font-size: 2rem;
+  margin: 10px auto 70px auto;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+  border-width: 8px;
+  margin: 80px auto 80px auto;
+}
+
+p{
+  line-height: 2;
+}
+
+
+.top{
+ padding-top: 100px;
+ background-color: #87ceeb;
+ position: relative;
+ height: 500px;
+ font-family: 'Sacramento', cursive;
+
+}
+
+.middle{
+  padding-top: 100px;
+  position: relative;
+  height: 1400px;
+  background-color: #FFD77C;
+}
+
+.bottom{
+  background-color: #B8B668;
+  height: 50px;
+  font-family: 'Merriweather', serif;
+  position: relative;
+}
+
+.grass{
+  background-color: #41E456;
+  height: 200px;
+  position:relative;
+}
+
+.about{
+  padding-top: 140px;
+  padding-bottom: 100px;
+  background-color: #FFD77C;
+
+}
+
+.bryce{
+  width: 40%;
+  position: absolute;
+  top:0;
+  left:5%;
+}
+
+.ben{
+  width: 40%;
+  position: absolute;
+  top: 45%;
+  right:5%;
+}
+
+.aidan{
+  width: 40%;
+  position: absolute;
+  top: 45%;
+  left: 5%;
+}
+
+.zach{
+  width: 40%;
+  position: absolute;
+  right: 5%;
+  top: 0;
+}
+
+.elf{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+
+}
+
+.warrior{
+  position: absolute;
+  left: 20%;
+  bottom: 0;
+}
+
+.knight{
+  position: absolute;
+  left: 40%;
+  bottom: 0;
+}
+
+.wizard{
+  position: absolute;
+  left: 60%;
+  bottom: 0;
+}
+
+.orc{
+  position: absolute;
+  left: 80%;
+  bottom: 0;
+}
+
+.grass-top{
+  position: absolute;
+  left:15%;
+  top:5%;
+}
+
+.grass-lower{
+  position:absolute;
+  top: 40%;
+  left: 53%;
+}
+
+.grass-lower2{
+  position: absolute;
+  bottom:50%;
+  right: 15%;
+}
+
+.left-cloud{
+  position: absolute;
+  left: 15%;
+  top: 30%;
+}
+
+.right-cloud{
+  position: absolute;
+  left: 70%;
+  top: 15%;
+}
+
+.grass-top{
+  position: absolute;
+  left: 15%;
+  bottom:0;
+}
+
+.wizard-gif{
+  border-radius: 50%;
+  margin-bottom: 30px;
+}
+
+.knight-gif{
+  border-radius: 50%;
+  margin-bottom: 30px;
+  height: 200px;
+}
+
+.barbarian-gif{
+  border-radius: 50%;
+  margin-bottom: 30px;
+  height: 200px;
+}
+
+.elf-gif{
+  border-radius: 50%;
+  margin-bottom: 30px;
+  height: 200px
+}
+
+.bottom-para{
+  margin: 0 auto;
+  padding-top: 9px;
+}
